@@ -1,0 +1,223 @@
+body{
+    background-color:rgb(247, 216, 247);
+}
+
+.a{
+    width: 240px;
+    height: 750px;
+    background-color: rgb(166, 102, 219);
+    border-bottom-right-radius: 170px;  
+    margin-left: 30px;
+    margin-top: 10px;  
+}
+
+.samuel{
+    background-color: rgb(166, 102, 219);
+    height: 70px;
+    width: 350px;
+    border-radius: 20;
+    border-top-right-radius:  20px;
+    border-top-left-radius:  20px;
+    border-bottom-left-radius:  8px;
+    border-bottom-right-radius:  8px;
+    
+}
+
+.avatar{
+    border-radius: 50px;
+    margin-left: 40px;
+    margin-top: 3px;
+    
+}
+
+.b{
+    width: 350px;
+    height: 620px;
+    background-color: rgb(221, 196, 221);
+    margin-left: 175px;
+    margin-top: -650px;
+    outline-style:solid;
+    outline-width: 10px;
+    outline-color: white;
+    border-radius: 20px;
+}
+
+.c{
+    background-color: white;
+    width: 170px;
+    margin-left: 95px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 20px;
+}
+
+.sam{
+    font-size: 20px;
+    font-family: rubik;
+    color: white;
+    margin-left: 90px;
+    margin-top: -38px;
+}
+
+.walk{
+    font-size: 12px;
+    color: white;
+    font-family: rubik;
+    font-weight: lighter;
+    margin-left: 85px;
+    margin-top: -15px;
+}
+
+
+.chat1{
+    background-color:rgb(230, 210, 248);
+    width: 220px;
+    border-radius: 10px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: -5px;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-family: rubik;
+    font-size: 15px;
+    
+    
+    
+}
+
+.chat2{
+    background-color:rgb(230, 210, 248);
+    width: 220px;
+    border-radius: 10px;
+    height: 40px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding: top 4px;
+    font-family: rubik;
+    font-size: 15px;
+}
+
+.dog{
+    border-radius: 10px;
+    width: 45px; 
+    float: right;
+    margin-top: -10px;
+    
+}
+
+.chat3{
+    background-color:rgb(255, 255, 255);
+    width: 200px;
+    border-radius: 10px;
+    height: 45px;
+    margin-left: 130px;
+    margin-top: -10px;
+    padding-left: 10px;
+    padding-top: 7px;
+    font-family: rubik;
+    font-size: 15px;
+}
+
+.chat4{
+    background-color:rgb(255, 255, 255);
+    width: 130px;
+    border-radius: 10px;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: -10px;
+    text-indent: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-top: 7px;
+    font-family: rubik;
+    font-size: 15px;
+}
+
+.chat5{
+    background-color:rgb(230, 210, 248);
+    width: 210px;
+    border-radius: 10px;
+    height: 60px;
+    margin-left: 10px;
+    margin-top: -10px;
+    padding-left: 10px;
+    padding-top: 7px;
+    font-family: rubik;
+    font-size: 15px;
+}
+
+.radio{
+    width: 50px;
+    
+    
+}
+
+
+.min{
+    background-color: blueviolet;
+    height: 35px;
+    width: 200px;
+    border-radius: 15px;
+    margin-left: 10px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+.message{
+    width: 300px;
+    height: 35px;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-top: 15px;
+    text-indent: 20px;
+}
+
+.dol{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.mins{
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: -18px;
+    color: white;
+}
+
+.dol1{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 45px;
+    margin-top: -20px;
+    
+    
+}
+.hour{
+    font-size: 16px;
+    margin-left: 40px;
+    margin-top: -17px;
+    color: white;
+}
+
+.simple{
+    margin-left: 570px;
+    margin-top: -440px;
+    font-family: sans-serif;
+
+}
+.booking{
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.stay{
+    color: grey;
+    font-size: 10px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+
